@@ -1,0 +1,12 @@
+Mohit,abc,C
+Raghu,a123,C
+Rohan,123,C
+Rahul,abc1,C
+Thomas,a1bc,C
+Jayant,a12b,C
+Chandan,a2b3,C
+Pinky,23c,C
+Niki,a23c,C
+Anjan,22a3,C
+Nirmala,1232,A
+Alpha,3212,P

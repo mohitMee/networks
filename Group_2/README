@@ -1,0 +1,5 @@
+1>	Login details are in login.txt file in the format <Name,password,User_type>
+where User_type P for police ,A for Admin , C for Customer
+3> For Customer,Agent,Police To close the connection enter "EXIT".
+4> Enter the fields as mentioned in the terminal prompt.
+ 
